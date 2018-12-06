@@ -32,4 +32,4 @@
 
 2.把 *.yml 复制到 /home/XXX/.pyenv/versions/3.6.4/lib/python3.6/site-packages/chatterbot_corpus/data/chinese
 
-3.python train.py
+3.python train.py 
